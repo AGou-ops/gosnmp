@@ -1,4 +1,4 @@
-module github.com/gosnmp/gosnmp
+module github.com/AGou-ops/gosnmp
 
 go 1.22.0
 
